@@ -21,8 +21,8 @@ Deploy container mongoDB no Centos8 do zero.
 
 5 - Login em Docker.io
 - docker login docker.io
-(user)
-(passwd)
+- usuario
+- senha
 
 6 - Baixe o MongoDB e Instale
 - sudo docker pull mongo
